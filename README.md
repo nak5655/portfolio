@@ -5,3 +5,4 @@
 
 # Characters
 ![Main Character](Artworks/concept.jpg)
+![Font](Artworks/character_3view_front.png)
