@@ -4,5 +4,6 @@
 
 
 # Characters
-![Main Character](Artworks/concept.jpg)
-![Font](Artworks/character_3view_front.png)
+|Concept|Front|Back|
+|--|--|--|
+|![Main Character](Artworks/concept.jpg)|![Front](Artworks/character_3view_front.png)|![Back](Artworks/character_3view_back.png)|
