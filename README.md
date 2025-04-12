@@ -1,6 +1,5 @@
 # About
-
-自己紹介用のプロジェクトです(WIP)
+for my portfolio (WIP)
 
 
 # Characters
